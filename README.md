@@ -15,8 +15,8 @@ API REST para gestión de usuarios con autenticación JWT.
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/user-project.git
-cd user-project
+git clone https://github.com/nescas86/smartjob.git
+cd smartjob
 ```
 
 2. **Verificar la instalación de Java**
